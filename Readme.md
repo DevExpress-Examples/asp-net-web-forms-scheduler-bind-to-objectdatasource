@@ -8,7 +8,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e436/)**
 <!-- run online end -->
 
-This example uses `ObjectDataSource` to bind the [ASPxScheduler](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxScheduler.ASPxScheduler) control to middle-layer business objects. To make the project simple and easy-to-use, data is written into a session.
+This example uses `ObjectDataSource` to bind the [ASPxScheduler](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxScheduler.ASPxScheduler) control to middle-layer business objects. To simplify your project, data is written into sessions.
 
 You can implement your own custom CRUD operations using an arbitrary data provider.
 
