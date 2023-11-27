@@ -25,4 +25,4 @@ You can implement your own custom CRUD operations using an arbitrary data provid
   
 ## More Examples
 
-* [Scheduler for ASP.NET Web Forms - How to bind a scheduler to a MS SQL Server database](https://github.com/DevExpress-Examples/asp-net-web-forms-scheduler-bind-to-ms-sql-server-database)
+* [Scheduler for ASP.NET Web Forms - How to bind a scheduler to a MS SQL Server database](https://github.com/DevExpress-Examples/asp-net-web-forms-scheduler-bind-to-sql)
